@@ -5,7 +5,7 @@
 # USO
 
 ```bash
-$streamlit run tdt.py
+$ streamlit run tdt.py
 ´´´
 
 # COLABORACIÓN
